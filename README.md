@@ -6,10 +6,10 @@ Follow this project at: https://hackaday.io/project/197581-etch-sao-sketch
 
 -------------
 
-# V1.2 - OLED VERSION
+# V1.3 - OLED VERSION
 
 Designed for Hackaday Europe 2025
 
-<img src="Images/SAO Sketch Render Front V1.2.png" height="250">
+<img src="Images/SAO Sketch Render Front V1.3.png" height="250">
 
-<img src="Images/SAO Sketch Render Back V1.2.png" height="250">
+<img src="Images/SAO Sketch Render Back V1.3.png" height="250">
