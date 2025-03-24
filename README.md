@@ -2,6 +2,8 @@
 
 The perfect pairing of an OLED Display, analog potentiometers, and a 3-axis accelerometer!
 
+Please use the primary repository for this project: https://github.com/ageppert/SAO_Etch_sAo_Sketch
+
 Follow this project at: https://hackaday.io/project/197581-etch-sao-sketch
 
 -------------
